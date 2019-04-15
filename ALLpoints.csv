@@ -1,116 +1,138 @@
-marker-color,marker-size,marker-symbol,year,type,park,abbr,detail,img,citation,lon,lat
-#c56c39,small,circle-stroked,2019,Commercial Services Strategy,Cuyahoga Valley National Park,CUVA,,,,-81.56799316,41.22824902
-#c56c39,small,circle-stroked,2019,Leasing Strategy,Fire Island National Seashore,FIIS,,,,-72.94235229,40.70979201
-#c56c39,small,circle-stroked,2019,Business Plan,Harpers Ferry Center,HFC,,,,-77.74200439,39.32354196
-#c56c39,small,circle-stroked,2019,Special Use Permit Improvement & Land Lease Evaluation,Appalachian National Scenic Trail,APPA,,,,-77.74217606,39.33682008
-#c56c39,small,circle-stroked,2019,Business Plan,Manassas National Battlefield Park,MANA,,,,-77.53180504,38.82205601
-#c56c39,small,circle-stroked,2019,Strategic Facilities Plan,Buffalo National River,BUFF,"Buffalo National Scenic River requested BPI assistance with a Strategic Facilities Plan. This project will provide preliminary data and a comprehensive assessment of the park�s visitor services, operations and facilities. The evaluation will include analysis of facility utilization, current condition, projected facility needs, resource impacts and recommendations for overall investment strategies over the next 10 years. The park will form a team of multidisciplinary subject matter experts to make available general park information and the most current visitor use and facility data available.  As a result of the BPI consultants work the park was able to..X Y & Z.",https://github.com/srthompson313/testmap/blob/497273003be808da13c54259176471f5b5de8483/BUFF_sullivan_1.jpg,� D. Sullivan/NPS,-93.18878174,36.06908225
-#c56c39,small,circle-stroked,2019,Visitor Services & Transportation Option Analysis,Golden Gate National Recreation Area,GOGA,,,,-122.4721527,37.80327385
-#c56c39,small,circle-stroked,2019,Workforce plan,Redwoods National and State Parks,REDW,,,,-124.052124,41.38917325
-#c56c39,small,circle-stroked,2019,Project Management Improvement Plan,Mount Rainier National Park,MORA,,,,-121.758728,46.85643476
-#008000,small,circle-stroked,2018,Resource Sharing Strategy,Dinosaur National Monument,DINO,,,,-108.951416,40.49604806
-#008000,small,circle-stroked,2018,Commercial Services Analysis,Cape Lookout National Seashore,CALO,,,,-76.34785652,34.82726161
-#008000,small,circle-stroked,2018,Workforce Analysis and Plan,Kalaupapa National Historical Site,KALA,,,,-156.9826126,21.18921351
-#008000,small,circle-stroked,2018,Commercial Services Analysis and Operational Analysis,Santa Monica Mountains National Recreation Area,SAMO,,,,-118.5840225,34.06602756
-#008000,small,circle-stroked,2018,Deferred Maintenance Reduction Framework,Gateway National Recreation Area ,GATE,,,,-74.05669212,40.60036621
-#008000,small,circle-stroked,2018,Strategic Planning Framework,Point Reyes National Seashore,PORE,,,,-122.8412247,38.0478207
-#008000,small,circle-stroked,2018,Commercial Services Analysis,Grand Canyon National Park,GRCA,,,,-112.1413136,36.05555245
-#008000,small,circle-stroked,2018,Operational Analysis,Chesapeake & Ohio Canal National Historical Park,CHOH,,,,-77.82719135,39.58253942
-#008000,small,circle-stroked,2017,Organizational Design & Pricing,Badlands NP and Minuteman Missile NHS,BADL,,,,-102.363739,43.52714431
-#008000,small,circle-stroked,2017,Commercial Services Strategy,Catoctin Mountain Park,CATO,,,,-77.46734619,39.64799732
-#008000,small,circle-stroked,2017,Commercial Service Analysis,Denali National Park & Preserve,DENA,,,,-150.3588867,63.0624258
-#008000,small,circle-stroked,2017,Business Plan,Glen Canyon National Recreation Area,GLCA,,,,-111.5699387,36.85847169
-#008000,small,circle-stroked,2017,Business Plan,Great Smoky Mountains National Park,GRSM,,,,-83.26812744,35.67960961
-#008000,small,circle-stroked,2017,Commercial Services Analysis,Gulf Islands National Seashore,GUIS,,,,-88.79060268,30.39142313
-#008000,small,circle-stroked,2017,Financial Management and Workforce Planning,Mount Rainier National Park,MORA,,,,-121.7655945,46.85596521
-#008000,small,circle-stroked,2017,Business Plan,National Trails of the Intermountain Region,NTIR,,,,-105.9391129,35.69140005
-#008000,small,circle-stroked,2017,Business and Workforce Planning,Southeast Arizona Group,SEAZ,,,,-109.3276978,31.95682302
-#008000,small,circle-stroked,2016,Commercial Services Analysis,Fire Island National Seashore,FIIS,,,,-72.93685913,40.71161371
-#008000,small,circle-stroked,2016,Business Plan,Flight 93 National Memorial,FLNI,,,,-78.90277863,40.05468715
-#008000,small,circle-stroked,2016,Commercial Services Analysis,Shenandoah National Park,SHEN,,,,-78.31964493,38.66326282
-#008000,small,circle-stroked,2016,Business Plan,Big Thicket National Preserve,BITH,,,,-94.38496113,30.45832932
-#008000,small,circle-stroked,2016,Operational Analysis,Sequoia and Kings Canyon National Parks,SEKI,,,,-118.7278748,36.82797399
-#008000,small,circle-stroked,2016,Commercial Services Strategy,Cape Cod National Seashore,CACO,,,,-69.96299744,41.86725984
-#008000,small,circle-stroked,2016,Commercial Services Strategy,National Mall & Memorial Parks,NAMA,,,,-77.03724861,38.89096602
-#008000,small,circle-stroked,2016,Business Plan and Workforce Strategy,Cumberland Island National Seashore,CUIS,,,,-81.41967773,30.87342456
-#008000,small,circle-stroked,2015,Commercial Services Strategy,Cape Cod National Seashore,CACO,,,,-69.95990753,41.86725984
-#008000,small,circle-stroked,2015,Business Plan,National Resources Stewardship and Science Directorate,NRSS,,,,-77.04266131,38.89449411
-#008000,small,circle-stroked,2015,Commercial Services Strategy,Katmai National Park & Preserve,KATM,,,,-154.6600342,58.72259883
-#008000,small,circle-stroked,2015,Business Plan,Mesa Verde National Park,MEVE,,,,-108.455658,37.26530996
-#008000,small,circle-stroked,2015,Shared Services Model,Midwest Region Dispatch Operations,MWRO,,,,-81.57211304,41.22618331
-#008000,small,circle-stroked,2015,Operational Analysis,Alaska Regional Office,AKRO,,,,-149.8848009,61.2173174
-#008000,small,circle-stroked,2015,Business Plan,Horace Albright Training Center,HOAL,,,,-112.1338463,36.05090321
-#008000,small,circle-stroked,2015,Operational Analysis,Mammoth Cave National Park,MACA,,,,-86.08732224,37.18411692
-#008000,small,circle-stroked,2014,Business Plan,Antietam National Battlefield,ANTI,,,,-77.73548126,39.46879996
-#008000,small,circle-stroked,2014,Business Plan,Appalachian National Scenic Trail,APPA,,,,-77.74492264,39.33708561
-#008000,small,circle-stroked,2014,Business Plan,Blue Ridge Parkway,BLRI,,,,-82.48743296,35.56661902
-#008000,small,circle-stroked,2014,Business Plan,Fort Pulaski National Monument,FOPU,,,,-80.89039207,32.02711561
-#008000,small,circle-stroked,2014,Operational Analysis,Glacier National Park,GLAC,,,,-113.8719177,48.64379839
-#008000,small,circle-stroked,2014,Shared Services Model,Midwest Regional Office (Ohio-Lake Michigan Zone),INDU,,,,-86.94811821,41.69470602
-#008000,small,circle-stroked,2014,Commercial Services Strategy,Rocky Mountain National Park,ROMO,,,,-105.717144,40.36001831
-#008000,small,circle-stroked,2014,Business Plan,Sequoia and Kings Canyon National Parks,SEKI,,,,-118.7278748,36.78591668
-#008000,small,circle-stroked,2013,Business Plan,Keweenaw National Historical Pak,KEWE,,,,-88.44165802,47.25243653
-#008000,small,circle-stroked,2013,Commercial Services Strategy,Curecanti National Recreation Area,CURE,,,,-107.3673248,38.45520185
-#008000,small,circle-stroked,2013,Operational Analysis,Grand Teton National Park,GRTE,,,,-110.6460571,43.81173831
-#008000,small,circle-stroked,2013,Business Plan,Pinnacles National Park,PINN,,,,-121.1984253,36.49749349
-#008000,small,circle-stroked,2013,Business Plan and Partnership Study,Chesapeake Bay Office,CHBA,,,,-76.48331881,38.97152963
-#008000,small,circle-stroked,2012,Business Plan,America's Great Outdoors Initiative,CONG,,,,-80.73783875,33.7951263
-#008000,small,circle-stroked,2012,Marketing/Outreach Study,Cuyahoga National Park,CUVA,,,,-81.57142639,41.26283995
-#008000,small,circle-stroked,2012,Business Plan,Gateway National Recreation Area,GATE,,,,-73.88116837,40.56572022
-#008000,small,circle-stroked,2012,Operational Analysis,Grand Canyon National Park,GRCA,,,,-112.122066,36.05497998
-#008000,small,circle-stroked,2012,Business Plan,Lyndon B. Johnson National Historical Park,LYJO,,,,-98.6268425,30.24913238
-#008000,small,circle-stroked,2012,Operational Analysis,National Mall and Memorial Parks,NAMA,,,,-77.04935074,38.88936267
-#008000,small,circle-stroked,2012,Operational Analysis,Yellowstone National Park,YELL,,,,-110.5938721,44.43279923
-#008000,small,circle-stroked,2011,Commercial Services Strategy,Chattahoochee River National Recreation Area,CHAT,,,,-84.32959557,33.99959274
-#008000,small,circle-stroked,2011,Fleet Management Plan,Glacier National Park,GLAC,,,,-113.9859009,48.52251687
-#008000,small,circle-stroked,2011,Leasing Feasibility Analysis,Golden Gate National Recreation Area,GOGA,,,,-122.528286,37.8284973
-#008000,small,circle-stroked,2011,Business Plan,North Cascades National Park,NOCA,,,,-121.4428711,48.80505453
-#008000,small,circle-stroked,2011,Comparative Analysis,Servicing Human Resources Office,SHRO,,,,-105.1426792,39.70064926
-#008000,small,circle-stroked,2011,Business Plan,Visitor Resource Protection Program,VRP,,,,-77.04263449,38.89408912
-#008000,small,circle-stroked,2010,Business Plan,Bighorn Canyon National Recreation Area,BICA,,,,-108.2534409,45.03738352
-#008000,small,circle-stroked,2010,Business Plan ,Little Bighorn Battlefield National Monument,LIBI,,,,-107.4325562,45.56358318
-#008000,small,circle-stroked,2010,Business Plan,Natchez Trace Parkway,NATR,,,,-88.72283936,34.31848686
-#008000,small,circle-stroked,2010,Business Plan,Santa Monica Mountains National Recreation Area,SAMO,,,,-118.5316658,34.07185768
-#008000,small,circle-stroked,2010,Business Plan,Valley Forge National Historical Park,VAFO,,,,-75.44483185,40.10134919
-#008000,small,circle-stroked,2010,Strategic Planning Framework,Yosemite National Park,YOSE,,,,-119.4931412,37.83364941
-#008000,small,circle-stroked,2009,Business Plan,City of Rocks National Reserve / Castle Rocks State Park,CIRO,,,,-113.70574951171874,42.071723466810774
-#008000,small,circle-stroked,2009,Business Plan,Scotts Bluff National Monument,SCBL,,,,-103.70613098144531,41.834141991182726
-#008000,small,circle-stroked,2009,Business Plan,Crater Lake National Park,CRLA,,,,-122.1576690673828,42.877473663905946
-#008000,small,circle-stroked,2009,Marketing/Outreach Study,Glen Canyon National Recreation Area / Rainbow Bridge National Monument,GLCA,,,,-111.47724151611328,36.9416602320482
-#008000,small,circle-stroked,2009,Education Program Study,Sequoia and Kings Canyon National Parks,SEKI,,,,-118.70040893554689,36.80928470205937
-#008000,small,circle-stroked,2009,Business Plan & Fleet Analysis,Southeast Utah Group,SEUG,,,,-109.566650390625,38.59540719940386
-#008000,small,circle-stroked,2009,Comparative Analysis,National Commercial Services,WASO,,,,-77.04267740249634,38.894974246341896
-#008000,small,circle-stroked,2008,Commercial Services Strategy,Chickasaw National Recreation Area,CHIC,,,,-97.0067024230957,34.459295756500175
-#008000,small,circle-stroked,2008,Business Plan,Haleakala National Park,HALE,,,,-156.18850708007812,20.711161567627354
-#008000,small,circle-stroked,2008,Business Plan,Big Cypress National Preserve,BICY,,,,-81.07017517089842,25.907718011578694
-#008000,small,circle-stroked,2008,Business Plan,Death Valley National Park,DEVA,,,,-117.14309692382812,36.600094165941144
-#008000,small,circle-stroked,2008,Annual Report Template & Community Outreach Plan,Golden Gate National Recreation Area,GOGA,,,,-122.48039245605469,37.79622059466506
-#008000,small,circle-stroked,2008,Operational Analysis,Sequoia and Kings Canyon National Parks,SEKI,,,,-118.66744995117186,36.81862991458789
-#008000,small,circle-stroked,2008,Assessment Framework,National Cooperating Associations,WASO,,,,-77.0426344871521,38.89370499941828
-#008000,small,circle-stroked,2008,Business Plan,Pacific West Regional Office,PWRO,,,,-122.40035533905028,37.792829365900836
-#008000,small,circle-stroked,2007,Business Plan,Fort Donelson National Battlefield,FODO,,,,-87.8550910949707,36.49245648826223
-#008000,small,circle-stroked,2007,Business Plan,Kaloko-Honokohau National Historical Park and Pu'uhonua O Honaunau National Historical Park,KAHO,,,,-156.02388381958005,19.68300045107375
-#008000,small,circle-stroked,2007,Business Plan,Hot Springs National Park,HOSP,,,,-93.04450035095215,34.51582170442478
-#008000,small,circle-stroked,2007,Business Plan,Assateague Island National Seashore,ASIS,,,,-75.21240234375,38.07836562996712
-#008000,small,circle-stroked,2007,Business Plan,Point Reyes National Seashore,PORE,,,,-122.82714843749999,38.0470096014159
-#008000,small,circle-stroked,2007,Business Plan,Boston National Historical Park,BOST,,,,-71.05864763259888,42.37309011104293
-#008000,small,circle-stroked,2006,Business Plan,Stones River National Battlefield,STRI,,,,-86.4334774017334,35.8776453461885
-#008000,small,circle-stroked,2006,Business Plan,John Day Fossil Beds National Monument,JODA,,,,-120.42594909667967,44.92154277306035
-#008000,small,circle-stroked,2006,Business Plan,Fort McHenry National Monument and Historic Shrine,FOMC,,,,-76.58026456832886,39.263609709628206
-#008000,small,circle-stroked,2006,Business Plan,Pictured Rocks National Lakeshore,PIRO,,,,-86.38343811035156,46.55413866117493
-#008000,small,circle-stroked,2006,Business Plan,Cumberland Gap National Historical Park,CUGA,,,,-83.65608215332031,36.62324320587342
-#008000,small,circle-stroked,2006,Business Plan,Voyageurs National Park,VOYA,,,,-92.94570922851562,48.513875259211225
-#008000,small,circle-stroked,2006,Business Plan,San Francisco Maritime National Historical Park,SAFR,,,,-122.4286472797394,37.80602884752056
-#008000,small,circle-stroked,2006,Business Plan,Lake Mead National Recreation Area,LAKE,,,,-114.7576904296875,36.03799493963657
-#008000,small,circle-stroked,2005,Business Plan,Mather Training Center,MAMC,,,,-77.74140357971191,39.324770291662645
-#008000,small,circle-stroked,2005,Business Plan,Saint-Gaudens National Historic Site,SAGA,,,,-72.37621307373047,43.51693750319639
-#008000,small,circle-stroked,2005,Business Plan,Grant-Kohrs National Historic Site,GRKO,,,,-112.74101257324219,46.41750568893066
-#008000,small,circle-stroked,2005,Business Plan,Wilson's Creek National Battlefield,WICR,,,,-93.4119415283203,37.102357315469206
-#008000,small,circle-stroked,2005,Business Plan,Flagstaff Area National Monuments,FLAG,,,,-111.67454481124878,35.186172851758066
-#008000,small,circle-stroked,2005,Business Plan,Big South Fork National River & Recreation Area,BISO,,,,-84.65721130371094,36.559842397523944
-#008000,small,circle-stroked,2005,Business Plan,Fire Island National Seashore,FIIS,,,,-72.9312801361084,40.712654662428214
-#008000,small,circle-stroked,2005,Business Plan,Hawaii  Volcanoes National Park,HAVO,,,,-155.225830078125,19.409611549990895
-#008000,small,circle-stroked,2005,Business Plan,Valley Forge National Historical Park,VAFO,,,,-75.43899536132812,40.10157897696852
-#008000,small,circle-stroked,2005,Business Plan,Channel Islands National Park,CHIS,,,,-120.11901855468751,33.98208625901939
-#008000,small,circle-stroked,2005,Business Plan,National Park Service Education Council,WASO,,,,-77.04224824905396,38.89443982934927
-#008000,small,circle-stroked,2005,Business Plan,Northeast Regional Office,NERO,,,,-75.14483213424683,39.947927475497764
+Row Labels,Count of year
+SEKI,5
+SHEN,5
+MORA,4
+DENA,4
+GOGA,4
+SAMO,4
+FIIS,3
+PORE,3
+NAMA,3
+GLCA,3
+YELL,3
+CACO,3
+VAFO,3
+GRCA,3
+WASO,3
+GRSM,3
+APPA,2
+ROMO,2
+GATE,2
+CUVA,2
+GLAC,2
+GUIS,2
+VOYA,2
+KATM,2
+REDW,2
+KEWE,2
+SAGA,2
+LAKE,2
+BLRI,2
+MACA,2
+CHIC,2
+BADL,2
+CHOH,2
+BIBE,2
+GRTE,2
+INDU,2
+PAIS,1
+WICR,1
+CRLA,1
+DEWA,1
+CHBA,1
+DINO,1
+SACR,1
+EVER,1
+CUIS,1
+BICA,1
+MOJA,1
+FLAG,1
+NRSS,1
+FLNI,1
+PWRO,1
+FODO,1
+SAJU,1
+FOMC,1
+SLBE,1
+FOPU,1
+VRP,1
+FOST,1
+MASI,1
+FOSU,1
+MORU,1
+BICY,1
+NERO,1
+GETT,1
+OLYM,1
+BISO,1
+PIRO,1
+BITH,1
+ANTI,1
+AKRO,1
+CIRO,1
+BOST,1
+SCBL,1
+GRKO,1
+CUGA,1
+BRCA,1
+STRI,1
+BUFF,1
+VIIS,1
+ARCH,1
+WHIS,1
+GUMO,1
+APIS,1
+HAFE,1
+MEVE,1
+HALE,1
+CHAT,1
+HAVO,1
+MWRO,1
+HFC,1
+NATR,1
+HOAL,1
+NOCA,1
+HOSP,1
+NTIR,1
+INDE,1
+OZAR,1
+YOSE,1
+PINN,1
+ZION,1
+ASIS,1
+JODA,1
+CHIS,1
+JOTR,1
+SAAN,1
+KAHO,1
+SAFR,1
+KALA,1
+SAGU,1
+CAHA,1
+CONG,1
+CALO,1
+SEAZ,1
+LACL,1
+SEUG,1
+CANY,1
+SHRO,1
+LAVO,1
+STLI,1
+LIBI,1
+TIMU,1
+LOWE,1
+VICK,1
+LYJO,1
+CURE,1
+MABI,1
+BAND,1
+CATO,1
+WHSA,1
+MALU,1
+WRST,1
+MAMC,1
+DEVA,1
+MANA,1
+ACAD,1
+ISRO,1
+Grand Total,196
